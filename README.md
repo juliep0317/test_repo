@@ -13,7 +13,8 @@ Configuation:
 - Config.file
 
 Contributing guidelines:
-- If project is open source, we want some specific rules to how they can contribute. 
+- If project is open source, we want some specific rules to how they can contribute.
+- 
 Credits:
 - Cuan Swan
 - Julie Palmer
