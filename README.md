@@ -5,10 +5,12 @@ Dependencies:
  - Python 3.1.7
  - Django latest
  - venv
+ - 
 Usage Guide:
 - install Django
 - install Python
 - run python3 test_file.py
+
 Configuation:
 - Config.file
 
